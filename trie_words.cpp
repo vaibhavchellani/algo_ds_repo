@@ -8,7 +8,6 @@ using namespace std;
 struct Node
 {
 	Node* alphabets[26];
-	int data;
 	bool isend;
 
 }*root=NULL;
